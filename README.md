@@ -9,6 +9,9 @@ A list of Github users who distribute tools and tutorials on OSINT (as well as h
 (The nickname at the beginning of each line is the name of the Twitter account)
 
 
+</hr>
+
+
 @binarypool https://github.com/smicallef Spiderfoot
 
 @soxoj https://github.com/soxoj Maigret, Socid Extractor
