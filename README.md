@@ -2,8 +2,9 @@
 A list of Github users who distribute tools and tutorials on OSINT (as well as hacking, pentest, and forensics)
 
 
+I recommend subscribing to these people to keep up with the latest developments in OSINT. And don't forget to star their repositories to support the community. 
 
-A list of Github users who distribute tools and tutorials on OSINT (as well as hacking, pentest, and forensics)
+
 
 
 (The nickname at the beginning of each line is the name of the Twitter account)
