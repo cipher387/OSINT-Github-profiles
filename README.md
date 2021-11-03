@@ -10,10 +10,15 @@ A list of Github users who distribute tools and tutorials on OSINT (as well as h
 
 
 @binarypool https://github.com/smicallef Spiderfoot
+
 @soxoj https://github.com/soxoj Maigret, Socid Extractor
+
 @palenath https://github.com/megadose Holehe, Ignorant
+
 @noneprivacy https://github.com/pielco11 Twint Fav-up
+
 https://github.com/mxrch Ghunt
+
 @s0md3v https://github.com/s0md3v Photon
 @jivoi https://github.com/jivoi Awesome Osint
 @jofpin https://github.com/jofpin Trape
