@@ -1,4 +1,8 @@
 # OSINT-Github-profiles
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+    <p align="center">
+    
 A list of Github users who distribute tools and tutorials on OSINT (as well as hacking, pentest, and forensics)
 
 
