@@ -1,5 +1,10 @@
 # OSINT-Github-profiles
 
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/OSINT-Github-profiles">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/OSINT-Github-profiles">
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
     <p align="center">
     
