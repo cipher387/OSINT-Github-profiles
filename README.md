@@ -87,6 +87,6 @@ https://github.com/mxrch Ghunt
 
 <hr>
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
 
