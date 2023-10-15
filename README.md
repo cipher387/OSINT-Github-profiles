@@ -24,13 +24,13 @@ I recommend subscribing to these people to keep up with the latest developments 
 
 @binarypool https://github.com/smicallef Spiderfoot
 
-@soxoj https://github.com/soxoj Maigret, Socid Extractor
+@sox0j https://github.com/soxoj Maigret, Socid Extractor
 
 @palenath https://github.com/megadose Holehe, Ignorant
 
 @noneprivacy https://github.com/pielco11 Twint Fav-up
 
-https://github.com/mxrch Ghunt
+@mxrchreborn https://github.com/mxrch Ghunt
 
 @s0md3v https://github.com/s0md3v Photon
 
